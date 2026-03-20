@@ -46,3 +46,9 @@ This repository is a collection of systems I am building to solve these problems
 ## Status
 
 🚧 Work in progress — building one system at a time
+
+## Collaboration
+
+I am open to collaborating with professionals who want to improve or build on these systems.
+
+If you are interested, feel free to reach out.
