@@ -65,4 +65,14 @@ When I follow this system, I feel:
 
 - More clarity  
 - Less stress  
-- Better control over my workday  
+- Better control over my workday
+
+- ---
+
+## How I Actually Use This
+
+On most days, I spend around 10–15 minutes planning my work using this method.
+
+Earlier, I used to directly start working without clarity, which caused a lot of confusion and switching between tasks.
+
+Now, even if I don’t follow the plan perfectly, having a structure helps me stay focused and reduces stress.
