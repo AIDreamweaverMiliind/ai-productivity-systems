@@ -1,0 +1,68 @@
+# Step-by-Step: Daily Work Management System
+
+## Step 1: Brain Dump All Tasks
+
+At the start of the day, I write down everything that is in my head:
+
+- Tasks from previous day  
+- Emails to respond  
+- Work items from meetings  
+- Follow-ups  
+
+This helps me clear mental clutter.
+
+---
+
+## Step 2: Group Similar Tasks
+
+I group tasks into categories:
+
+- Deep work (requires focus)  
+- Quick tasks  
+- Communication (emails, messages)  
+
+This helps me see the nature of my work.
+
+---
+
+## Step 3: Identify Top 3 Priorities
+
+Out of all tasks, I select:
+
+- 2–3 tasks that actually matter  
+
+These are tasks that:
+
+- Have deadlines  
+- Have impact  
+- Move work forward  
+
+---
+
+## Step 4: Time Block My Day
+
+I assign rough time blocks:
+
+- Morning → Deep work  
+- Afternoon → Meetings / communication  
+- Evening → Quick tasks  
+
+---
+
+## Step 5: Start Execution Without Overthinking
+
+Once plan is ready:
+
+- I start with the first priority  
+- Avoid switching tasks  
+- Follow the structure  
+
+---
+
+## Key Learning
+
+When I follow this system, I feel:
+
+- More clarity  
+- Less stress  
+- Better control over my workday  
