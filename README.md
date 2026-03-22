@@ -28,6 +28,22 @@ This repository contains practical systems to help working professionals:
 
 ---
 
+## Quick Navigation
+
+### Systems
+- [Daily Work Management](systems/daily-work-management/)
+- [Task Prioritization](systems/task-prioritization/)
+- [Mental Overload Reduction](systems/mental-overload/)
+
+### AI Workflows
+- [Daily Planning Workflow](ai-workflows/daily-planning/)
+
+### Templates
+- [Daily Planning Template](templates/daily-planning-template.md)
+- [Brain Dump Template](templates/brain-dump-template.md)
+
+---
+
 ### AI Workflows
 
 - Daily Planning using AI  
