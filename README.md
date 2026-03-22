@@ -68,6 +68,17 @@ This repository is a collection of systems I am building to solve these problems
 
 ---
 
+## How to Use This Repository
+
+1. Start with the Daily Work Management System  
+2. Use the Task Prioritization Framework to decide what to focus on  
+3. Apply the Mental Overload System when feeling overwhelmed  
+4. Use AI workflows to simplify planning  
+5. Use templates for daily execution  
+
+This repository is designed to be practical. Start small and apply one system at a time.
+---
+
 ## Status
 
 🚧 Work in progress — continuously improving systems
