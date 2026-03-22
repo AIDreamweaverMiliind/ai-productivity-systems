@@ -21,13 +21,22 @@ This repository contains practical systems to help working professionals:
 ## What you will find here
 
 ### Systems
-- Daily Work Management System (in progress)
+
+- Daily Work Management System  
+- Task Prioritization System  
+- Mental Overload Reduction System  
+
+---
 
 ### AI Workflows
-- Coming soon
+
+- Daily Planning using AI  
+
+---
 
 ### Frameworks
-- Coming soon
+
+- Task Prioritization Framework  
 
 ---
 
@@ -45,10 +54,4 @@ This repository is a collection of systems I am building to solve these problems
 
 ## Status
 
-🚧 Work in progress — building one system at a time
-
-## Usage
-
-You are free to use and learn from these systems.
-
-If you wish to use this commercially or build on top of it, please reach out for collaboration.
+🚧 Work in progress — continuously improving systems
