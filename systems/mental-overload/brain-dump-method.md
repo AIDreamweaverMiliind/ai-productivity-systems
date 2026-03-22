@@ -51,3 +51,17 @@ When I write everything down, my mind feels lighter.
 Instead of trying to remember everything, I trust the system.
 
 This helps me stay calm and focused.
+
+---
+
+## How This Helped Me
+
+Earlier, I used to keep everything in my head.
+
+Even while working on one task, I would constantly think about other pending work. This made it difficult to focus and increased stress.
+
+After using this method, I started writing everything down before starting my work.
+
+This simple step helped me feel more in control.
+
+Now, instead of thinking about multiple things at once, I focus on one task at a time.
